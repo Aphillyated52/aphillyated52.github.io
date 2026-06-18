@@ -1,0 +1,4 @@
+# VORSCHAU-MODUS (Prototyp, nicht öffentlich beworben): Crawling gesperrt.
+# Vor dem echten Launch zurücksetzen auf "Allow: /" + Sitemap-Zeile.
+User-agent: *
+Disallow: /
