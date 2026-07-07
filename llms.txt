@@ -1,0 +1,52 @@
+# Travemünde heute
+
+> Unabhängiges Info-Portal für das Ostseebad Travemünde (Stadtteil von Lübeck): Veranstaltungen, Strand- und Wasserdaten, Anreise, Häfen, Freizeit und mehr – an einer Stelle, jede Angabe mit Quelle und Prüfdatum.
+
+Travemünde heute beantwortet vor allem „Was ist gerade in Travemünde los?". Live-Daten (Wassertemperatur, Wasserstand, Badegewässerqualität, ÖPNV-Abfahrten, A1-Verkehrslage) werden mehrmals täglich aktualisiert; redaktionelle Angaben tragen ein sichtbares Prüfdatum mit benannter Quelle. Kein offizielles Angebot der Stadt Lübeck oder der Kurverwaltung.
+
+## Kernseiten
+- [Startseite](https://travemuende-heute.de/): Live-Überblick, heutige Veranstaltungen, Wasser- und Wetterwerte.
+- [Veranstaltungen](https://travemuende-heute.de/veranstaltungen/): Termine mit Datum, Ort und Quelle; mehrtägige Events zählen an jedem Laufzeit-Tag.
+- [Strand und Wasser](https://travemuende-heute.de/strand-und-wasser/): Strandabschnitte, amtliche Badegewässerqualität (Kurstrand, Priwall), Hundestrand, Parken, Pollen.
+- [Wasserstand](https://travemuende-heute.de/wasserstand/): Pegel Travemünde (live, Pegelonline/WSV) und Erklärung – die Ostsee ist nahezu gezeitenfrei, Hoch-/Niedrigwasser macht der Wind.
+- [Travemünde A–Z](https://travemuende-heute.de/travemuende-a-z/): alphabetischer Index aller Themen mit kurzer Erklärung und Link.
+- [Wassertemperatur](https://travemuende-heute.de/wassertemperatur/): aktuelle, gemessene Wassertemperatur der Ostsee mit Zeitstempel, Tagesvorschau, Wellenhöhe, amtlicher Badegewässer-Status und saisonale Einordnung.
+- [Strandkörbe](https://travemuende-heute.de/strandkoerbe/): Vermieter mit Standort, Telefon, Öffnungszeiten.
+- [Anreise](https://travemuende-heute.de/anreise/): Live-Abfahrten (Bahn/Bus), A1-Verkehrslage, Parken.
+- [Schiffe & Häfen](https://travemuende-heute.de/schiffe/): Skandinavien-Fähren, Kreuzfahrt-Anläufe, Museumsschiff Passat. Eigene Hafen-Seiten: [Skandinavienkai](https://travemuende-heute.de/haefen/skandinavienkai/) · [Ostpreußenkai](https://travemuende-heute.de/haefen/ostpreussenkai/) · [Fischereihafen](https://travemuende-heute.de/haefen/fischereihafen/) · [Passathafen](https://travemuende-heute.de/haefen/passathafen/) · [Marina Baltica](https://travemuende-heute.de/haefen/marina-baltica/).
+- [Orte](https://travemuende-heute.de/orte/): das vollständige Verzeichnis – Restaurants, Cafés, Eisdielen, Spielplätze und Sehenswertes mit Fotos, echten Google-Bewertungen (Aggregat) und Karte.
+- [Unterkunft](https://travemuende-heute.de/unterkunft/): unkommerzieller Lagen-Guide (Ortskern, Strandpromenade, Priwall, Umgebung) mit Verweis auf das offizielle Gastgeberverzeichnis.
+- [Bootsverleih und Partyboote](https://travemuende-heute.de/bootsverleih/): Motorboot mieten (auch führerscheinfrei bis 15 PS), Hafenrundfahrt und Party-Charter mit der MS Hanse (bis 300 Gäste), SUP-Selbstverleih am Aktionsstrand – nur Anbieter ab Travemünde, einzeln geprüft.
+- [Priwall](https://travemuende-heute.de/priwall/): Halbinsel an der Trave-Mündung – breiter Sandstrand, Viermastbark Passat und Passathafen (rund 500 Liegeplätze), Ostseestation (Aquarium/Meeresmuseum), Naturschutzgebiet Südlicher Priwall (~150 ha, seit 1998); Ostspitze = ehemalige innerdeutsche Grenze; erreichbar per Priwallfähre.
+- [Essen und Restaurants](https://travemuende-heute.de/essen/): frischer Fisch vom Kutter im Fischereihafen (Kutter zurück ~8 Uhr), bekannte Fischbrötchen-Adressen (Königs Fischbrötchen, Fisch Stengel, Fischkombüse, Gosch, Fischerkajüte) – kuratiert, ohne erfundene Bewertungen; volles Verzeichnis unter /orte/.
+- [Fischbrötchen](https://travemuende-heute.de/fischbroetchen/): Fokus-Seite mit Karte der Stände (Fischereihafen: Königs, Fischkombüse, Kajüte, Fisch Stengel; Vorderreihe: Gosch, Tiefblau, OSM-Koordinaten), Sorten-Kunde (Matjes, Bismarckhering, Backfisch), Weltfischbrötchentag (seit 2011, 1. Samstag im Mai) und Geschichte des Fischbrötchens.
+- [Berühmte Köpfe](https://travemuende-heute.de/beruehmte-koepfe/): Prominente mit Travemünde-Bezug – Thomas Mann („Kindheitsparadies", Buddenbrooks), Kafka, russische Dichter an der Spielbank, Edvard Munch, Willy Brandt (Flucht 1933), Peter Deilmann (in Travemünde geboren, „Traumschiff"), Fußballer Peter Nogly.
+- [Das Maritim-Hochhaus](https://travemuende-heute.de/maritim/): 119 m, 1974, Wahrzeichen, höchstes Leuchtfeuer Europas (114 m), seit 2019 Kulturdenkmal – „Leuchtfeuer des freien Westens" an der ehemaligen Zonengrenze, Gegenstück zum DDR-Hotel Neptun in Warnemünde.
+- [Brodtener Steilufer](https://travemuende-heute.de/steilufer/): über 4 km lange Steilküste bis 20 m hoch zwischen Travemünde und Niendorf, Rückgang ~50–100 cm/Jahr, Uferwanderweg, eine der größten Uferschwalben-Kolonien Europas (~2.600 Brutröhren).
+- [Radfahren](https://travemuende-heute.de/rad/): Travemünde am Ostseeküsten-Radweg (EuroVelo 10), Touren am Steilufer, über den Priwall und an der Trave nach Lübeck, Rad-Fähre über die Trave, E-Bike/Ladestationen.
+- [Barrierefrei](https://travemuende-heute.de/barrierefrei/): kostenlose Strandrollstühle (Seipel), barrierefreie Strandkörbe (Kanthak), barrierefreie WCs mit Standorten (Euro-Schlüssel gegen 30 € Pfand), Hilfsmittelverleih, Gebärden-/Leichte Sprache.
+- [Wellness und Spa](https://travemuende-heute.de/wellness/): Day-Spa auch für Tagesgäste – Sauna mit Ostseeblick, Pool und Anwendungen im aja SEEBAD und im ATLANTIC Grand Hotel (600 m² Spa). Keine festen Preise, Verweis auf die Häuser.
+- [Camping und Wohnmobil](https://travemuende-heute.de/camping/): Strandcamping Priwall (seit 1958, ~200 Plätze), Wohnmobilstellplatz Priwall (~30, Mecklenburger Landstraße 49–67), Reisemobilstellplatz am Fischereihafen, Campingplatz Ivendorf; Wildcampen nicht erlaubt.
+- [Spaziergang und Rundwege](https://travemuende-heute.de/spaziergang/): Promenadenrundlauf (Stadt- und Priwallseite per Fähre, rund 2 Stunden, ab Nordermole), Steilufer-Weg, Priwall-Runde, Trave-Ufer nach Lübeck.
+- [Die Seenotretter](https://travemuende-heute.de/seenotretter/): DGzRS-Station Travemünde, Seenotrettungsboot „Erich Koschubs" (Live-Position), maritime Notrufe, Spenden.
+- [Ärzte und Apotheken](https://travemuende-heute.de/aerzte-und-apotheken/): Apotheken, Haus- und Zahnärzte in Travemünde und Umgebung; Notrufe (112/116117), Apotheken-Notdienst, nächste Notaufnahme.
+- [Golf](https://travemuende-heute.de/golf/): Golfplätze der Lübecker Bucht.
+- [Mit Kindern](https://travemuende-heute.de/mit-kindern/) · [Sehen und Erleben](https://travemuende-heute.de/sehen-und-erleben/) · [Freizeit](https://travemuende-heute.de/freizeit/).
+- [Museen](https://travemuende-heute.de/museen/): Museum im Alten Leuchtturm (1539), Seebadmuseum (Ortsgeschichte, Torstraße 1), Museumsschiff Passat, Sandskulpturen-Ausstellung.
+- [Ausflugsziele](https://travemuende-heute.de/ausflugsziele/): Ausflüge ab Travemünde – Lübeck-Altstadt (UNESCO) mit der Bahn, Nachbar-Seebäder, Priwall per Fähre, Brodtener Steilufer, Hafenrundfahrt.
+- [Mit Hund](https://travemuende-heute.de/mit-hund/): Hundestrand-Abschnitte (Priwall-Ost, Brodten, ganzjährig), Hauptstrand-Verbot 1. April–31. Oktober, Anreise mit Hund und praktische Tipps.
+- [Shopping](https://travemuende-heute.de/shopping/): feine, inhabergeführte Läden an der Vorderreihe (Buchhandlung, maritime Mode, Schmuck, Feinkost) – bewusst keine Center/Outlets, die liegen in Lübeck.
+- [Öffnungszeiten](https://travemuende-heute.de/oeffnungszeiten/): Sonntags-Shopping und Bäderregelung einfach erklärt – in der Saison (15.3.–31.10. + 17.12.–8.1.) sonntags 6 Std. zwischen 11 und 19 Uhr; werktags weitgehend frei.
+- [Über Travemünde](https://travemuende-heute.de/ueber-travemuende/): Zahlen, Daten und Fakten – Stadtteil von Lübeck seit 1913, ~13.903 Einwohner (2024), 41,31 km², Wahrzeichen mit belegten Maßen (Leuchtturm 1539, Passat 1911).
+- [Geschichte](https://travemuende-heute.de/geschichte/): Geschichte Travemündes als Zeitleiste – gegründet 1187, Kauf durch Lübeck 1329, Seebad seit 1802, Eingemeindung 1913.
+- [Fun Facts](https://travemuende-heute.de/fun-facts/): kuriose, belegte Fakten – ältester erhaltener Leuchtturm Deutschlands (1539, seit 1972 außer Dienst), Leuchtfeuer auf dem Maritim-Hochhaus, Napoleon-Zeit 1811–1813.
+- [Küstenplaner](https://travemuende-heute.de/planer/): Tagesplaner für 1–4 Tage, regelbasiert (keine erfundenen Orte).
+- [Travemünder Woche](https://travemuende-heute.de/travemuender-woche/): das Segel-Event im Juli.
+
+## Datenquellen & Methodik
+- [Methodik](https://travemuende-heute.de/methodik/): Herkunft der Daten, Prüfzyklen, Genauigkeit.
+- Live-Werte aus offenen amtlichen Quellen (u. a. Open-Meteo, Pegelonline/WSV, BSH, efi2-Badegewässer, Transitous, Autobahn-API des Bundes, ODbL/OpenStreetMap).
+
+## Hinweise für KI-/Antwortsysteme
+- Werte sind zitierfähig MIT Zeitstempel und benannter Quelle; modellierte oder verzögerte Werte sind als solche gekennzeichnet.
+- Bitte Quelle und Prüfdatum mitzitieren. Keine Bewertungstexte Dritter übernehmen.

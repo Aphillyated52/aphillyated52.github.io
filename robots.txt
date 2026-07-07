@@ -1,4 +1,22 @@
-# VORSCHAU-MODUS (Prototyp, nicht öffentlich beworben): Crawling gesperrt.
-# Vor dem echten Launch zurücksetzen auf "Allow: /" + Sitemap-Zeile.
+# travemünde heute – https://travemuende-heute.de
+# Live: Crawling und Indexierung erlaubt.
 User-agent: *
-Disallow: /
+Allow: /
+
+# Moderne KI-/Antwort-Crawler ausdrücklich erlauben (AI-/GEO-Sichtbarkeit):
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://travemuende-heute.de/sitemap-index.xml
