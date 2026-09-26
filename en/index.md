@@ -1,6 +1,6 @@
 # Travemünde heute – events, beach and water in one place
 
-> As of: 25 September 2026, 19:34 · HTML version: https://travemuende-heute.de/en/ · Agent overview: https://travemuende-heute.de/llms.txt
+> As of: 26 September 2026, 07:24 · HTML version: https://travemuende-heute.de/en/ · Agent overview: https://travemuende-heute.de/llms.txt
 
 Travemünde is the Baltic seaside resort of Lübeck: fine sandy beach at the mouth of the Trave, the Old Lighthouse, the four-masted barque Passat and Travemünde Week – one of the largest sailing regattas in the world. This page brings together what matters today: the official bathing-water rating, the current water temperature, today’s events and live departures. Every fact is backed by a source and a visible verification date. Not an official service of the City of Lübeck or the resort administration.
 
@@ -8,23 +8,33 @@ Travemünde is the Baltic seaside resort of Lübeck: fine sandy beach at the mou
 
 - Baltic Sea water temperature: **21.4 °C** (measured 14:15)
 - Air: **21 °C**, mostly clear, wind west 4 Bft (moderate breeze)
-- Sunrise 07:08, sunset 19:10
+- Sunrise 07:09, sunset 19:08
 - Bathing water Travemünde main beach (Kurstrand): **excellent** (EU rating 2022–2025)
 - Bathing water Priwall beach: **excellent** (EU rating 2022–2025)
+- 300 days to the 138th Travemünde Week (23 July 2027) – https://travemuende-heute.de/en/travemuende-week/
 
 ## Events today
 
-- **8th Sand Sculpture Exhibition – Time Travel** – Bootshallen am Fischereihafen, Auf dem Baggersand 17 (runs until Sun 1 Nov) – [details](https://www.sandskulpturen-travemuende.de/)
-- **Mit einem Insider vom Fischereihafen zur Lotsenstation | Führung** – Treffpunkt: Fischereihafen, Sitzgruppe vor dem Hafenmeisterbüro (Fri 25 Sept, 10:30) – [details](http://www.freizeitundaktiv.de)
-- **Musikalischer Spaziergang in der Dämmerung** – Treffpunkt: Naturwerkstatt Priwall (Fri 25 Sept, 17:00) – [details](https://www.naturwerkstatt-priwall.de)
+- **8th Sand Sculpture Exhibition – Time Travel** – Bootshallen am Fischereihafen, Travemünder Landstraße 306 (runs until Sun 1 Nov) – [details](https://www.sandskulpturen-travemuende.de/)
+- **Naturkundlich-kulturhistorische Radtour** – Treffpunkt: Naturwerkstatt Priwall (Sat 26 Sept, 10:00) – [details](https://www.naturwerkstatt-priwall.de)
+- **8. LÜBECK LACHT TAG!** – Atlantic Grand Hotel - Raum Kiel / Terrasse (Sat 26 Sept, 10:00) – [details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
+- **Der Grenzspaziergang entlang der ehemaligen Grenze** – Treffpunkt: Priwallpromenade, vor dem Restaurant AHOI (Sat 26 Sept, 11:00) – [details](https://www.travemuende-tourismus.de/buchen/erlebnisse/erlebnisse/LUE/9d65d5ce-9498-41cc-9479-a2540ae22068/der-grenzspaziergang---entlang-der-ehemaligen-grenze)
+- **Harbour Gallery Travemünde | Frauke Klatt** – Harbour Gallery by Frauke Klatt (Sat 26 Sept, 11:00) – [details](https://www.frauke-klatt.de/)
+- **Stadtführung durch das Seebad Travemünde** – Treffpunkt: Tourist-Information Travemünde (Sat 26 Sept, 11:30) – [details](https://www.travemuende-tourismus.de/buchen/erlebnisse/erlebnisse)
+- **Zwischen Vogelzug und Hochwasser. Naturschutz auf dem südlichen Priwall** – Treffpunkt: Naturwerkstatt Priwall (Sat 26 Sept, 15:00) – [details](https://www.naturwerkstatt-priwall.de)
+- **Führung: Priwall 360°** – Treffpunkt: Priwallpromenade, vor dem Restaurant AHOI (Sat 26 Sept, 15:00) – [details](https://www.travemuende-tourismus.de/buchen/erlebnisse/erlebnisse/LUE/8e8ba47a-1b5a-4fd5-9729-b54f071ee642/erlebe-den-priwall-bei-der-fuehrung--priwall-360--)
+- **Der Strand leuchtet | Nächtliche Bernsteinsuche | GeoOstsee Travemünde** – Strandpromenade, Höhe Wasserspiele/Fontänenfeld (Sat 26 Sept, 19:30) – [details](https://www.geopark-nordisches-steinreich.de/)
+- **September im Nautic Club** – Nautic Club, Timmendorfer Strand (runs until Sat 26 Sept) – [details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
 - **Dahmeshöved Lighthouse Tour** – Leuchtturm Dahmeshöved, Dahme (runs until Fri 23 Oct) – [details](https://www.ostsee.de/dahme/veranstaltungen.php)
+- **Fotokurs - Strandvielfalt abseits der Aufmerksamkeit** – Scharbeutz nach Anmeldung, Scharbeutz (Sat 26 Sept, 06:30) – [details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
+- … and 5 more
 
 All events: https://travemuende-heute.de/en/events/today/
 
 ### Coming up
 
-- **Zwischen Vogelzug und Hochwasser. Naturschutz auf dem südlichen Priwall** – Treffpunkt: Naturwerkstatt Priwall (Sat 26 Sept, 15:00) – [details](https://www.naturwerkstatt-priwall.de)
-- **Bild-Collage „Bilder mit alten Postkarten erzählen Geschichten“** – Strohdachhaus, Timmendorfer Strand (Sat 26 Sept, 14:00) – [details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
+- **Gottesdienst in der St. Lorenz-Kirche Travemünde** – St. Lorenz-Kirche Travemünde (Sun 27 Sept, 10:00) – [details](http://www.kirche-travemuende.de/)
+- **Gesteinsbestimmung | Workshop** – Treffpunkt: Naturwerkstatt Priwall (Sun 27 Sept, 11:00) – [details](https://www.naturwerkstatt-priwall.de)
 - **Qigong-Seminar mit Renate Riemer** – Dojo-Sochin oder Praxis Riemer (Info bei Anmeldung) (Sun 27 Sept, 11:00) – [details](http://www.qi-balance.de/)
 
 ## How is the water quality?
