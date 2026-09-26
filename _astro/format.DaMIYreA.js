@@ -1,0 +1,1 @@
+const o=e=>e==="de"?"de-DE":"en-GB",t="Europe/Berlin";function a(e){return new Intl.DateTimeFormat("en-CA",{timeZone:t,year:"numeric",month:"2-digit",day:"2-digit"}).format(e)}function i(e,n){return(typeof e=="string"?new Date(e):e).toLocaleDateString(o(n),{day:"numeric",month:"long",year:"numeric",timeZone:t})}export{a as b,i as f};

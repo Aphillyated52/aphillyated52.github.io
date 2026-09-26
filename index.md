@@ -1,12 +1,12 @@
 # Travemünde heute – Veranstaltungen, Strand und Wasser
 
-> Stand: 26. September 2026, 07:46 Uhr · HTML-Fassung: https://travemuende-heute.de/ · Überblick für Agenten: https://travemuende-heute.de/llms.txt
+> Stand: 26. September 2026, 08:09 Uhr · HTML-Fassung: https://travemuende-heute.de/ · Überblick für Agenten: https://travemuende-heute.de/llms.txt
 
 Travemünde ist das Ostseebad von Lübeck: feiner Sandstrand an der Mündung der Trave, der Alte Leuchtturm, die Viermastbark Passat und die Travemünder Woche – eine der größten Segelregatten der Welt. Diese Seite bündelt, was heute zählt – amtliche Badegewässer-Einstufung, aktuelle Wassertemperatur, Veranstaltungen des Tages und Live-Abfahrten – jede Angabe mit Quelle und sichtbarem Prüfdatum. Kein offizielles Angebot der Stadt Lübeck oder der Kurverwaltung.
 
 ## Heute in Travemünde
 
-- Wassertemperatur Ostsee: **16,3 °C** (gemessen 07:30 Uhr)
+- Wassertemperatur Ostsee: **16,3 °C** (gemessen 08:00 Uhr)
 - Luft: **12 °C**, teils bewölkt, Wind Südwest 2 Bft (leichte Brise)
 - Sonnenaufgang 07:09, Sonnenuntergang 19:08
 - Badegewässer Travemünde Kurstrand: **ausgezeichnet** (EU-Einstufung 2022–2025)
@@ -16,26 +16,26 @@ Travemünde ist das Ostseebad von Lübeck: feiner Sandstrand an der Mündung der
 ## Veranstaltungen heute
 
 - **8. Sandskulpturen-Ausstellung – Zeitreise** – Bootshallen am Fischereihafen, Travemünder Landstraße 306 (läuft bis So., 1. Nov.) – [Details](https://www.sandskulpturen-travemuende.de/)
+- **18. WindArt 2026 in Travemünde** – verschiedene Orte in Travemünde (Sa., 26. Sept., 08:00 Uhr) – [Details](http://www.kunst-kultur-travemuende.de)
+- **Alpaka Wanderungen am Dummersdorfer Ufer** – Naturnah-Hof • Familie Filbrandt (Sa., 26. Sept., 09:00 Uhr) – [Details](https://www.naturnah-hof.de/)
+- **Kunstausstellung Michael Weigel** – Galerie im Maritim (Sa., 26. Sept., 09:30 Uhr) – [Details](http://www.weigel-art.de/galerie/galerie.php?lang=1)
 - **Naturkundlich-kulturhistorische Radtour** – Treffpunkt: Naturwerkstatt Priwall (Sa., 26. Sept., 10:00 Uhr) – [Details](https://www.naturwerkstatt-priwall.de)
+- **Vogelleben zwischen Fluss und Meer | Ausstellung** – Naturwerkstatt Priwall (Sa., 26. Sept., 10:00 Uhr) – [Details](https://www.naturwerkstatt-priwall.de/)
+- **Besichtigung der Viermastbark Passat** – Viermastbark Passat (Sa., 26. Sept., 10:00 Uhr) – [Details](http://www.luebeck.de/passat)
+- **Besichtigung der Ostseestation Travemünde** – Ostseestation Travemünde (Sa., 26. Sept., 10:00 Uhr) – [Details](http://www.ostseestation-travemuende.de/)
+- **Hurricane BootsVermietung Travemünde | Motorboote** – Hurricane BootsVermietung Travemünde, Prinzenbrücke (Sa., 26. Sept., 10:00 Uhr) – [Details](http://www.hurricane-bootsvermietung.de/)
+- **Sandskulpturen Travemünde | ZEITREISE** – Bootshallen am Fischereihafen (Sa., 26. Sept., 10:00 Uhr) – [Details](http://www.sandskulpturen-travemuende.de)
+- **Kletterwald Travemünde** – Kletterwald Travemünde (Sa., 26. Sept., 10:00 Uhr) – [Details](http://www.kletterwald-travemuende.de)
 - **8. LÜBECK LACHT TAG!** – Atlantic Grand Hotel - Raum Kiel / Terrasse (Sa., 26. Sept., 10:00 Uhr) – [Details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
-- **Der Grenzspaziergang entlang der ehemaligen Grenze** – Treffpunkt: Priwallpromenade, vor dem Restaurant AHOI (Sa., 26. Sept., 11:00 Uhr) – [Details](https://www.travemuende-tourismus.de/buchen/erlebnisse/erlebnisse/LUE/9d65d5ce-9498-41cc-9479-a2540ae22068/der-grenzspaziergang---entlang-der-ehemaligen-grenze)
-- **Harbour Gallery Travemünde | Frauke Klatt** – Harbour Gallery by Frauke Klatt (Sa., 26. Sept., 11:00 Uhr) – [Details](https://www.frauke-klatt.de/)
-- **Stadtführung durch das Seebad Travemünde** – Treffpunkt: Tourist-Information Travemünde (Sa., 26. Sept., 11:30 Uhr) – [Details](https://www.travemuende-tourismus.de/buchen/erlebnisse/erlebnisse)
-- **Zwischen Vogelzug und Hochwasser. Naturschutz auf dem südlichen Priwall** – Treffpunkt: Naturwerkstatt Priwall (Sa., 26. Sept., 15:00 Uhr) – [Details](https://www.naturwerkstatt-priwall.de)
-- **Führung: Priwall 360°** – Treffpunkt: Priwallpromenade, vor dem Restaurant AHOI (Sa., 26. Sept., 15:00 Uhr) – [Details](https://www.travemuende-tourismus.de/buchen/erlebnisse/erlebnisse/LUE/8e8ba47a-1b5a-4fd5-9729-b54f071ee642/erlebe-den-priwall-bei-der-fuehrung--priwall-360--)
-- **Der Strand leuchtet | Nächtliche Bernsteinsuche | GeoOstsee Travemünde** – Strandpromenade, Höhe Wasserspiele/Fontänenfeld (Sa., 26. Sept., 19:30 Uhr) – [Details](https://www.geopark-nordisches-steinreich.de/)
-- **September im Nautic Club** – Nautic Club, Timmendorfer Strand (läuft bis Sa., 26. Sept.) – [Details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
-- **Leuchtturmführung Dahmeshöved** – Leuchtturm Dahmeshöved, Dahme (läuft bis Fr., 23. Okt.) – [Details](https://www.ostsee.de/dahme/veranstaltungen.php)
-- **Fotokurs - Strandvielfalt abseits der Aufmerksamkeit** – Scharbeutz nach Anmeldung, Scharbeutz (Sa., 26. Sept., 06:30 Uhr) – [Details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
-- … und 5 weitere
+- … und 24 weitere
 
 Alle Termine: https://travemuende-heute.de/veranstaltungen/heute/
 
 ### Die nächsten Termine
 
+- **18. WindArt 2026 in Travemünde** – verschiedene Orte in Travemünde (So., 27. Sept., 08:00 Uhr) – [Details](http://www.kunst-kultur-travemuende.de)
 - **Gottesdienst in der St. Lorenz-Kirche Travemünde** – St. Lorenz-Kirche Travemünde (So., 27. Sept., 10:00 Uhr) – [Details](http://www.kirche-travemuende.de/)
 - **Gesteinsbestimmung | Workshop** – Treffpunkt: Naturwerkstatt Priwall (So., 27. Sept., 11:00 Uhr) – [Details](https://www.naturwerkstatt-priwall.de)
-- **Qigong-Seminar mit Renate Riemer** – Dojo-Sochin oder Praxis Riemer (Info bei Anmeldung) (So., 27. Sept., 11:00 Uhr) – [Details](http://www.qi-balance.de/)
 
 ## Wie ist die Wasserqualität?
 
@@ -58,4 +58,4 @@ Amtliche Laborproben, in der Badesaison (1. Juni bis 15. September) etwa monatli
 
 ## Quellen und Aktualität
 
-Wetter- und Wasserwerte: Open-Meteo (open-meteo.com), Forecast- und Marine-API (abgerufen 07:38 Uhr). Die Seite wird mehrmals täglich neu gebaut; redaktionelle Angaben tragen ein Prüfdatum. Sprachen: Deutsch (https://travemuende-heute.de/) und Englisch (https://travemuende-heute.de/en/). Sitemap: https://travemuende-heute.de/sitemap-index.xml. Impressum: https://travemuende-heute.de/impressum/.
+Wetter- und Wasserwerte: Open-Meteo (open-meteo.com), Forecast- und Marine-API (abgerufen 08:03 Uhr). Die Seite wird mehrmals täglich neu gebaut; redaktionelle Angaben tragen ein Prüfdatum. Sprachen: Deutsch (https://travemuende-heute.de/) und Englisch (https://travemuende-heute.de/en/). Sitemap: https://travemuende-heute.de/sitemap-index.xml. Impressum: https://travemuende-heute.de/impressum/.
