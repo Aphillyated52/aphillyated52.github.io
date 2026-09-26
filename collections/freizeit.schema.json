@@ -1,0 +1,109 @@
+{
+  "$ref": "#/definitions/freizeit",
+  "definitions": {
+    "freizeit": {
+      "type": "object",
+      "properties": {
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "bereich": {
+            "type": "string",
+            "enum": [
+              "ort",
+              "priwall",
+              "umgebung"
+            ]
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "kinder",
+                "regen",
+                "kostenlos",
+                "wasser",
+                "winter"
+              ]
+            }
+          },
+          "kurz": {
+            "type": "string"
+          },
+          "kurzEn": {
+            "type": "string"
+          },
+          "fakten": {
+            "type": "string"
+          },
+          "faktenEn": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "quelle": {
+            "type": "string",
+            "format": "uri"
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "verifiziert",
+              "sekundaer"
+            ]
+          },
+          "zuletztGeprueft": {
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "date-time"
+              },
+              {
+                "type": "string",
+                "format": "date"
+              },
+              {
+                "type": "integer",
+                "format": "unix-time"
+              }
+            ]
+          },
+          "hinweis": {
+            "type": "string"
+          },
+          "hinweisEn": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "name",
+          "bereich",
+          "tags",
+          "kurz",
+          "kurzEn",
+          "fakten",
+          "faktenEn",
+          "quelle",
+          "status",
+          "zuletztGeprueft"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

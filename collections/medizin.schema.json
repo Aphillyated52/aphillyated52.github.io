@@ -1,0 +1,98 @@
+{
+  "$ref": "#/definitions/medizin",
+  "definitions": {
+    "medizin": {
+      "type": "object",
+      "properties": {
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "typ": {
+            "type": "string",
+            "enum": [
+              "apotheke",
+              "hausarzt",
+              "zahnarzt",
+              "klinik"
+            ]
+          },
+          "region": {
+            "type": "string",
+            "enum": [
+              "travemuende",
+              "umgebung"
+            ]
+          },
+          "adresse": {
+            "type": "string"
+          },
+          "plz": {
+            "type": "string"
+          },
+          "stadt": {
+            "type": "string"
+          },
+          "telefon": {
+            "type": "string"
+          },
+          "website": {
+            "type": "string",
+            "format": "uri"
+          },
+          "oeffnungszeiten": {
+            "type": "string"
+          },
+          "hinweis": {
+            "type": "string"
+          },
+          "hinweisEn": {
+            "type": "string"
+          },
+          "quelle": {
+            "type": "string",
+            "format": "uri"
+          },
+          "zuletztGeprueft": {
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "date-time"
+              },
+              {
+                "type": "string",
+                "format": "date"
+              },
+              {
+                "type": "integer",
+                "format": "unix-time"
+              }
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "name",
+          "typ",
+          "region",
+          "adresse",
+          "plz",
+          "stadt",
+          "quelle",
+          "zuletztGeprueft"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}
