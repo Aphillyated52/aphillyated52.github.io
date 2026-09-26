@@ -1,12 +1,12 @@
 # Travemünde heute – events, beach and water in one place
 
-> As of: 26 September 2026, 07:29 · HTML version: https://travemuende-heute.de/en/ · Agent overview: https://travemuende-heute.de/llms.txt
+> As of: 26 September 2026, 07:46 · HTML version: https://travemuende-heute.de/en/ · Agent overview: https://travemuende-heute.de/llms.txt
 
 Travemünde is the Baltic seaside resort of Lübeck: fine sandy beach at the mouth of the Trave, the Old Lighthouse, the four-masted barque Passat and Travemünde Week – one of the largest sailing regattas in the world. This page brings together what matters today: the official bathing-water rating, the current water temperature, today’s events and live departures. Every fact is backed by a source and a visible verification date. Not an official service of the City of Lübeck or the resort administration.
 
 ## Today in Travemünde
 
-- Baltic Sea water temperature: **16.3 °C** (measured 07:15)
+- Baltic Sea water temperature: **16.3 °C** (measured 07:30)
 - Air: **12 °C**, partly cloudy, wind south-west 2 Bft (light breeze)
 - Sunrise 07:09, sunset 19:08
 - Bathing water Travemünde main beach (Kurstrand): **excellent** (EU rating 2022–2025)
@@ -56,4 +56,4 @@ EU classification from four years of official laboratory samples, not a live rea
 
 ## Sources and freshness
 
-Weather and water readings: Open-Meteo (open-meteo.com), Forecast- und Marine-API (fetched 07:24). The site is rebuilt several times a day; editorial facts carry a verification date. Languages: German (https://travemuende-heute.de/) and English (https://travemuende-heute.de/en/). Sitemap: https://travemuende-heute.de/sitemap-index.xml. Imprint: https://travemuende-heute.de/en/imprint/.
+Weather and water readings: Open-Meteo (open-meteo.com), Forecast- und Marine-API (fetched 07:38). The site is rebuilt several times a day; editorial facts carry a verification date. Languages: German (https://travemuende-heute.de/) and English (https://travemuende-heute.de/en/). Sitemap: https://travemuende-heute.de/sitemap-index.xml. Imprint: https://travemuende-heute.de/en/imprint/.
