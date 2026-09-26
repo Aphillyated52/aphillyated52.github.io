@@ -1,13 +1,13 @@
 # Travemünde heute – Veranstaltungen, Strand und Wasser
 
-> Stand: 26. September 2026, 07:24 Uhr · HTML-Fassung: https://travemuende-heute.de/ · Überblick für Agenten: https://travemuende-heute.de/llms.txt
+> Stand: 26. September 2026, 07:29 Uhr · HTML-Fassung: https://travemuende-heute.de/ · Überblick für Agenten: https://travemuende-heute.de/llms.txt
 
 Travemünde ist das Ostseebad von Lübeck: feiner Sandstrand an der Mündung der Trave, der Alte Leuchtturm, die Viermastbark Passat und die Travemünder Woche – eine der größten Segelregatten der Welt. Diese Seite bündelt, was heute zählt – amtliche Badegewässer-Einstufung, aktuelle Wassertemperatur, Veranstaltungen des Tages und Live-Abfahrten – jede Angabe mit Quelle und sichtbarem Prüfdatum. Kein offizielles Angebot der Stadt Lübeck oder der Kurverwaltung.
 
 ## Heute in Travemünde
 
-- Wassertemperatur Ostsee: **21,4 °C** (gemessen 14:15 Uhr)
-- Luft: **21 °C**, überwiegend klar, Wind West 4 Bft (mäßige Brise)
+- Wassertemperatur Ostsee: **16,3 °C** (gemessen 07:15 Uhr)
+- Luft: **12 °C**, teils bewölkt, Wind Südwest 2 Bft (leichte Brise)
 - Sonnenaufgang 07:09, Sonnenuntergang 19:08
 - Badegewässer Travemünde Kurstrand: **ausgezeichnet** (EU-Einstufung 2022–2025)
 - Badegewässer Priwall: **ausgezeichnet** (EU-Einstufung 2022–2025)
@@ -58,4 +58,4 @@ Amtliche Laborproben, in der Badesaison (1. Juni bis 15. September) etwa monatli
 
 ## Quellen und Aktualität
 
-Wetter- und Wasserwerte: Open-Meteo (open-meteo.com), Forecast- und Marine-API (abgerufen 14:24 Uhr). Die Seite wird mehrmals täglich neu gebaut; redaktionelle Angaben tragen ein Prüfdatum. Sprachen: Deutsch (https://travemuende-heute.de/) und Englisch (https://travemuende-heute.de/en/). Sitemap: https://travemuende-heute.de/sitemap-index.xml. Impressum: https://travemuende-heute.de/impressum/.
+Wetter- und Wasserwerte: Open-Meteo (open-meteo.com), Forecast- und Marine-API (abgerufen 07:24 Uhr). Die Seite wird mehrmals täglich neu gebaut; redaktionelle Angaben tragen ein Prüfdatum. Sprachen: Deutsch (https://travemuende-heute.de/) und Englisch (https://travemuende-heute.de/en/). Sitemap: https://travemuende-heute.de/sitemap-index.xml. Impressum: https://travemuende-heute.de/impressum/.
