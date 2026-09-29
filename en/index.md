@@ -1,6 +1,6 @@
 # Travemünde heute – events, beach and water in one place
 
-> As of: 26 September 2026, 13:57 · HTML version: https://travemuende-heute.de/en/ · Agent overview: https://travemuende-heute.de/llms.txt
+> As of: 28 September 2026, 21:20 · HTML version: https://travemuende-heute.de/en/ · Agent overview: https://travemuende-heute.de/llms.txt
 
 Travemünde is the Baltic seaside resort of Lübeck: fine sandy beach at the mouth of the Trave, the Old Lighthouse, the four-masted barque Passat and Travemünde Week – one of the largest sailing regattas in the world. This page brings together what matters today: the official bathing-water rating, the current water temperature, today’s events and live departures. Every fact is backed by a source and a visible verification date. Not an official service of the City of Lübeck or the resort administration.
 
@@ -8,34 +8,31 @@ Travemünde is the Baltic seaside resort of Lübeck: fine sandy beach at the mou
 
 - Baltic Sea water temperature: **21.4 °C** (measured 14:15)
 - Air: **21 °C**, mostly clear, wind west 4 Bft (moderate breeze)
-- Sunrise 07:09, sunset 19:08
+- Sunrise 07:13, sunset 19:03
 - Bathing water Travemünde main beach (Kurstrand): **excellent** (EU rating 2022–2025)
 - Bathing water Priwall beach: **excellent** (EU rating 2022–2025)
-- 300 days to the 138th Travemünde Week (23 July 2027) – https://travemuende-heute.de/en/travemuende-week/
+- 298 days to the 138th Travemünde Week (23 July 2027) – https://travemuende-heute.de/en/travemuende-week/
 
 ## Events today
 
 - **8th Sand Sculpture Exhibition – Time Travel** – Bootshallen am Fischereihafen, Travemünder Landstraße 306 (runs until Sun 1 Nov) – [details](https://www.sandskulpturen-travemuende.de/)
-- **18. WindArt 2026 in Travemünde** – verschiedene Orte in Travemünde (Sat 26 Sept, 08:00) – [details](http://www.kunst-kultur-travemuende.de)
-- **Alpaka Wanderungen am Dummersdorfer Ufer** – Naturnah-Hof • Familie Filbrandt (Sat 26 Sept, 09:00) – [details](https://www.naturnah-hof.de/)
-- **Kunstausstellung Michael Weigel** – Galerie im Maritim (Sat 26 Sept, 09:30) – [details](http://www.weigel-art.de/galerie/galerie.php?lang=1)
-- **Naturkundlich-kulturhistorische Radtour** – Treffpunkt: Naturwerkstatt Priwall (Sat 26 Sept, 10:00) – [details](https://www.naturwerkstatt-priwall.de)
-- **Vogelleben zwischen Fluss und Meer | Ausstellung** – Naturwerkstatt Priwall (Sat 26 Sept, 10:00) – [details](https://www.naturwerkstatt-priwall.de/)
-- **Besichtigung der Viermastbark Passat** – Viermastbark Passat (Sat 26 Sept, 10:00) – [details](http://www.luebeck.de/passat)
-- **Besichtigung der Ostseestation Travemünde** – Ostseestation Travemünde (Sat 26 Sept, 10:00) – [details](http://www.ostseestation-travemuende.de/)
-- **Hurricane BootsVermietung Travemünde | Motorboote** – Hurricane BootsVermietung Travemünde, Prinzenbrücke (Sat 26 Sept, 10:00) – [details](http://www.hurricane-bootsvermietung.de/)
-- **Sandskulpturen Travemünde | ZEITREISE** – Bootshallen am Fischereihafen (Sat 26 Sept, 10:00) – [details](http://www.sandskulpturen-travemuende.de)
-- **Kletterwald Travemünde** – Kletterwald Travemünde (Sat 26 Sept, 10:00) – [details](http://www.kletterwald-travemuende.de)
-- **8. LÜBECK LACHT TAG!** – Atlantic Grand Hotel - Raum Kiel / Terrasse (Sat 26 Sept, 10:00) – [details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
-- … and 24 more
+- **weit mehr als Meer | Kunstwerke aus Leidenschaft** – Kanzlei am Hafen (Mon 28 Sept, 08:00) – [details](http://www.kunstnet.de/chrisartelier)
+- **18. WindArt 2026 in Travemünde** – verschiedene Orte in Travemünde (Mon 28 Sept, 08:00) – [details](http://www.kunst-kultur-travemuende.de)
+- **Qigong mit Dr. Renate Riemer** – Dojo-Sochin oder Praxis Riemer (Info bei Anmeldung) (Mon 28 Sept, 10:00) – [details](http://www.qi-balance.de/)
+- **De TraveMünder | Chorprobe** – Gesellschaftshaus Travemünde (Mon 28 Sept, 16:30) – [details](http://detravemuender.de/)
+- **Gemischter Chor der Travemünder Liedertafel von 1843 e.V. | Chorprobe** – Gesellschaftshaus Travemünde (Mon 28 Sept, 19:00) – [details](http://www.gemischterchor.de/cms/gc/)
+- **Dahmeshöved Lighthouse Tour** – Leuchtturm Dahmeshöved, Dahme (runs until Fri 23 Oct) – [details](https://www.ostsee.de/dahme/veranstaltungen.php)
+- **Yoga auf dem Seebrückenkopf Niendorf** – Niendorfer Seebrücke, Niendorf/Ostsee (Mon 28 Sept, 08:30) – [details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
+- **Da, wo wir uns finden - Malerei von Roland Willaert in der Strandkirche** – Galerie an der  Strandkirche Scharbeutz (Gemeindehaus), Scharbeutz (Mon 28 Sept, 09:00) – [details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
+- **Ausstellung ,,Kunst erleben!- Walentowski Galerien"** – Trinkkurhalle, Timmendorfer Strand (Mon 28 Sept, 10:00) – [details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
 
 All events: https://travemuende-heute.de/en/events/today/
 
 ### Coming up
 
-- **18. WindArt 2026 in Travemünde** – verschiedene Orte in Travemünde (Sun 27 Sept, 08:00) – [details](http://www.kunst-kultur-travemuende.de)
-- **Gottesdienst in der St. Lorenz-Kirche Travemünde** – St. Lorenz-Kirche Travemünde (Sun 27 Sept, 10:00) – [details](http://www.kirche-travemuende.de/)
-- **Gesteinsbestimmung | Workshop** – Treffpunkt: Naturwerkstatt Priwall (Sun 27 Sept, 11:00) – [details](https://www.naturwerkstatt-priwall.de)
+- **Day Spa mit Meerblick** – ATLANTIC Grand Hotel Travemünde (Tue 29 Sept, 07:00) – [details](https://atlantic-grand.de/spa-beauty/)
+- **18. WindArt 2026 in Travemünde** – verschiedene Orte in Travemünde (Tue 29 Sept, 08:00) – [details](http://www.kunst-kultur-travemuende.de)
+- **Offener Freizeit Boule Treff** – Treffpunkt: Brügmanngarten, an der Bühne (Tue 29 Sept, 11:00) – [details](http://www.freizeitundaktiv.de)
 
 ## How is the water quality?
 
