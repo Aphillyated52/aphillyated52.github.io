@@ -1,6 +1,6 @@
 # Travemünde heute – Veranstaltungen, Strand und Wasser
 
-> Stand: 4. Oktober 2026, 13:06 Uhr · HTML-Fassung: https://travemuende-heute.de/ · Überblick für Agenten: https://travemuende-heute.de/llms.txt
+> Stand: 4. Oktober 2026, 14:07 Uhr · HTML-Fassung: https://travemuende-heute.de/ · Überblick für Agenten: https://travemuende-heute.de/llms.txt
 
 Travemünde ist das Ostseebad von Lübeck: feiner Sandstrand an der Mündung der Trave, der Alte Leuchtturm, die Viermastbark Passat und die Travemünder Woche – eine der größten Segelregatten der Welt. Diese Seite bündelt, was heute zählt – amtliche Badegewässer-Einstufung, aktuelle Wassertemperatur, Veranstaltungen des Tages und Live-Abfahrten – jede Angabe mit Quelle und sichtbarem Prüfdatum. Kein offizielles Angebot der Stadt Lübeck oder der Kurverwaltung.
 

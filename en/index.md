@@ -1,6 +1,6 @@
 # Travemünde heute – events, beach and water in one place
 
-> As of: 4 October 2026, 13:06 · HTML version: https://travemuende-heute.de/en/ · Agent overview: https://travemuende-heute.de/llms.txt
+> As of: 4 October 2026, 14:07 · HTML version: https://travemuende-heute.de/en/ · Agent overview: https://travemuende-heute.de/llms.txt
 
 Travemünde is the Baltic seaside resort of Lübeck: fine sandy beach at the mouth of the Trave, the Old Lighthouse, the four-masted barque Passat and Travemünde Week – one of the largest sailing regattas in the world. This page brings together what matters today: the official bathing-water rating, the current water temperature, today’s events and live departures. Every fact is backed by a source and a visible verification date. Not an official service of the City of Lübeck or the resort administration.
 
