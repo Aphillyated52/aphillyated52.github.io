@@ -1,6 +1,6 @@
 # Travemünde heute – events, beach and water in one place
 
-> As of: 28 September 2026, 21:20 · HTML version: https://travemuende-heute.de/en/ · Agent overview: https://travemuende-heute.de/llms.txt
+> As of: 4 October 2026, 13:06 · HTML version: https://travemuende-heute.de/en/ · Agent overview: https://travemuende-heute.de/llms.txt
 
 Travemünde is the Baltic seaside resort of Lübeck: fine sandy beach at the mouth of the Trave, the Old Lighthouse, the four-masted barque Passat and Travemünde Week – one of the largest sailing regattas in the world. This page brings together what matters today: the official bathing-water rating, the current water temperature, today’s events and live departures. Every fact is backed by a source and a visible verification date. Not an official service of the City of Lübeck or the resort administration.
 
@@ -8,31 +8,34 @@ Travemünde is the Baltic seaside resort of Lübeck: fine sandy beach at the mou
 
 - Baltic Sea water temperature: **21.4 °C** (measured 14:15)
 - Air: **21 °C**, mostly clear, wind west 4 Bft (moderate breeze)
-- Sunrise 07:13, sunset 19:03
+- Sunrise 07:24, sunset 18:48
 - Bathing water Travemünde main beach (Kurstrand): **excellent** (EU rating 2022–2025)
 - Bathing water Priwall beach: **excellent** (EU rating 2022–2025)
-- 298 days to the 138th Travemünde Week (23 July 2027) – https://travemuende-heute.de/en/travemuende-week/
+- 292 days to the 138th Travemünde Week (23 July 2027) – https://travemuende-heute.de/en/travemuende-week/
 
 ## Events today
 
+- **Travemünde Autumn Kite Festival – Gone with the Wind** – Kurstrand und Strandpromenade, Aufgänge 4–7 (runs until Sun 4 Oct) – [details](https://www.travemuende-tourismus.de/veranstaltungen/herbstdrachenfest)
 - **8th Sand Sculpture Exhibition – Time Travel** – Bootshallen am Fischereihafen, Travemünder Landstraße 306 (runs until Sun 1 Nov) – [details](https://www.sandskulpturen-travemuende.de/)
-- **weit mehr als Meer | Kunstwerke aus Leidenschaft** – Kanzlei am Hafen (Mon 28 Sept, 08:00) – [details](http://www.kunstnet.de/chrisartelier)
-- **18. WindArt 2026 in Travemünde** – verschiedene Orte in Travemünde (Mon 28 Sept, 08:00) – [details](http://www.kunst-kultur-travemuende.de)
-- **Qigong mit Dr. Renate Riemer** – Dojo-Sochin oder Praxis Riemer (Info bei Anmeldung) (Mon 28 Sept, 10:00) – [details](http://www.qi-balance.de/)
-- **De TraveMünder | Chorprobe** – Gesellschaftshaus Travemünde (Mon 28 Sept, 16:30) – [details](http://detravemuender.de/)
-- **Gemischter Chor der Travemünder Liedertafel von 1843 e.V. | Chorprobe** – Gesellschaftshaus Travemünde (Mon 28 Sept, 19:00) – [details](http://www.gemischterchor.de/cms/gc/)
+- **WindArt Skulpturen Walk** – verschiedene Orte in Travemünde (Sun 4 Oct, 08:00) – [details](http://www.kunst-kultur-travemuende.de)
+- **Strandrallye im Landschaftsschutzgebiet Küstenlandschaft Priwall** – Treffpunkt: Naturwerkstatt Priwall (Sun 4 Oct, 11:00) – [details](https://www.naturwerkstatt-priwall.de)
+- **HERBSTDRACHENFEST in Travemünde** – Strand und Strandpromenade (Sun 4 Oct, 11:00) – [details](https://www.travemuende-tourismus.de/veranstaltungen/herbstdrachenfest)
+- **Steine, Fossilien & Meer | GeoOstsee Brodtener Ufer** – Treffpunkt: Brodtener Ufer, bei der Treppe zum Strand (Sun 4 Oct, 12:00) – [details](https://tickets.geopark-nordisches-steinreich.de/)
+- **Schnitzwerkstatt** – Treffpunkt: Naturwerkstatt Priwall (Sun 4 Oct, 14:00) – [details](https://www.naturwerkstatt-priwall.de)
+- **Fotokurs - Sternenspuren über der Landschaft** – Scharbeutz nach Anmeldung, Scharbeutz (runs until Sun 4 Oct) – [details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
+- **Lange Saunanacht: O’zapft is!** – Ostsee Therme, Scharbeutz (runs until Sun 4 Oct) – [details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
+- **Lust auf Schönes (Autumn Market)** – Niendorf/Ostsee, Niendorf/Ostsee (runs until Sun 4 Oct) – [details](https://www.der-reporter.de/tdf-strand/artikel/die-highlight-events-2026-in-timmendorfer-strand-und-niendorf-ostsee)
 - **Dahmeshöved Lighthouse Tour** – Leuchtturm Dahmeshöved, Dahme (runs until Fri 23 Oct) – [details](https://www.ostsee.de/dahme/veranstaltungen.php)
-- **Yoga auf dem Seebrückenkopf Niendorf** – Niendorfer Seebrücke, Niendorf/Ostsee (Mon 28 Sept, 08:30) – [details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
-- **Da, wo wir uns finden - Malerei von Roland Willaert in der Strandkirche** – Galerie an der  Strandkirche Scharbeutz (Gemeindehaus), Scharbeutz (Mon 28 Sept, 09:00) – [details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
-- **Ausstellung ,,Kunst erleben!- Walentowski Galerien"** – Trinkkurhalle, Timmendorfer Strand (Mon 28 Sept, 10:00) – [details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
+- **Lust auf Schönes - Kunst Handwerk & Gestaltung** – Hafen, Niendorf/Ostsee (Sun 4 Oct, 10:00) – [details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
+- … and 3 more
 
 All events: https://travemuende-heute.de/en/events/today/
 
 ### Coming up
 
-- **Day Spa mit Meerblick** – ATLANTIC Grand Hotel Travemünde (Tue 29 Sept, 07:00) – [details](https://atlantic-grand.de/spa-beauty/)
-- **18. WindArt 2026 in Travemünde** – verschiedene Orte in Travemünde (Tue 29 Sept, 08:00) – [details](http://www.kunst-kultur-travemuende.de)
-- **Offener Freizeit Boule Treff** – Treffpunkt: Brügmanngarten, an der Bühne (Tue 29 Sept, 11:00) – [details](http://www.freizeitundaktiv.de)
+- **Waldrallye im Naturschutzgebiet Südlicher Priwall** – Treffpunkt: Naturwerkstatt Priwall (Mon 5 Oct, 12:00) – [details](https://www.naturwerkstatt-priwall.de)
+- **Naturseifen | Workshop** – Treffpunkt: Naturwerkstatt Priwall (Mon 5 Oct, 14:00) – [details](https://www.naturwerkstatt-priwall.de)
+- **Das Landschaftsschutzgebiet Küstenlandschaft Priwall | Führung** – Treffpunkt: Naturwerkstatt Priwall (Tue 6 Oct, 14:00) – [details](https://www.naturwerkstatt-priwall.de)
 
 ## How is the water quality?
 

@@ -1,6 +1,6 @@
 # Travemünde heute – Veranstaltungen, Strand und Wasser
 
-> Stand: 28. September 2026, 21:20 Uhr · HTML-Fassung: https://travemuende-heute.de/ · Überblick für Agenten: https://travemuende-heute.de/llms.txt
+> Stand: 4. Oktober 2026, 13:06 Uhr · HTML-Fassung: https://travemuende-heute.de/ · Überblick für Agenten: https://travemuende-heute.de/llms.txt
 
 Travemünde ist das Ostseebad von Lübeck: feiner Sandstrand an der Mündung der Trave, der Alte Leuchtturm, die Viermastbark Passat und die Travemünder Woche – eine der größten Segelregatten der Welt. Diese Seite bündelt, was heute zählt – amtliche Badegewässer-Einstufung, aktuelle Wassertemperatur, Veranstaltungen des Tages und Live-Abfahrten – jede Angabe mit Quelle und sichtbarem Prüfdatum. Kein offizielles Angebot der Stadt Lübeck oder der Kurverwaltung.
 
@@ -8,31 +8,34 @@ Travemünde ist das Ostseebad von Lübeck: feiner Sandstrand an der Mündung der
 
 - Wassertemperatur Ostsee: **21,4 °C** (gemessen 14:15 Uhr)
 - Luft: **21 °C**, überwiegend klar, Wind West 4 Bft (mäßige Brise)
-- Sonnenaufgang 07:13, Sonnenuntergang 19:03
+- Sonnenaufgang 07:24, Sonnenuntergang 18:48
 - Badegewässer Travemünde Kurstrand: **ausgezeichnet** (EU-Einstufung 2022–2025)
 - Badegewässer Priwall: **ausgezeichnet** (EU-Einstufung 2022–2025)
-- 298 Tage bis zur 138. Travemünder Woche (23. Juli 2027) – https://travemuende-heute.de/travemuender-woche/
+- 292 Tage bis zur 138. Travemünder Woche (23. Juli 2027) – https://travemuende-heute.de/travemuender-woche/
 
 ## Veranstaltungen heute
 
+- **Travemünder Herbstdrachenfest – Vom Winde verweht** – Kurstrand und Strandpromenade, Aufgänge 4–7 (läuft bis So., 4. Okt.) – [Details](https://www.travemuende-tourismus.de/veranstaltungen/herbstdrachenfest)
 - **8. Sandskulpturen-Ausstellung – Zeitreise** – Bootshallen am Fischereihafen, Travemünder Landstraße 306 (läuft bis So., 1. Nov.) – [Details](https://www.sandskulpturen-travemuende.de/)
-- **weit mehr als Meer | Kunstwerke aus Leidenschaft** – Kanzlei am Hafen (Mo., 28. Sept., 08:00 Uhr) – [Details](http://www.kunstnet.de/chrisartelier)
-- **18. WindArt 2026 in Travemünde** – verschiedene Orte in Travemünde (Mo., 28. Sept., 08:00 Uhr) – [Details](http://www.kunst-kultur-travemuende.de)
-- **Qigong mit Dr. Renate Riemer** – Dojo-Sochin oder Praxis Riemer (Info bei Anmeldung) (Mo., 28. Sept., 10:00 Uhr) – [Details](http://www.qi-balance.de/)
-- **De TraveMünder | Chorprobe** – Gesellschaftshaus Travemünde (Mo., 28. Sept., 16:30 Uhr) – [Details](http://detravemuender.de/)
-- **Gemischter Chor der Travemünder Liedertafel von 1843 e.V. | Chorprobe** – Gesellschaftshaus Travemünde (Mo., 28. Sept., 19:00 Uhr) – [Details](http://www.gemischterchor.de/cms/gc/)
+- **WindArt Skulpturen Walk** – verschiedene Orte in Travemünde (So., 4. Okt., 08:00 Uhr) – [Details](http://www.kunst-kultur-travemuende.de)
+- **Strandrallye im Landschaftsschutzgebiet Küstenlandschaft Priwall** – Treffpunkt: Naturwerkstatt Priwall (So., 4. Okt., 11:00 Uhr) – [Details](https://www.naturwerkstatt-priwall.de)
+- **HERBSTDRACHENFEST in Travemünde** – Strand und Strandpromenade (So., 4. Okt., 11:00 Uhr) – [Details](https://www.travemuende-tourismus.de/veranstaltungen/herbstdrachenfest)
+- **Steine, Fossilien & Meer | GeoOstsee Brodtener Ufer** – Treffpunkt: Brodtener Ufer, bei der Treppe zum Strand (So., 4. Okt., 12:00 Uhr) – [Details](https://tickets.geopark-nordisches-steinreich.de/)
+- **Schnitzwerkstatt** – Treffpunkt: Naturwerkstatt Priwall (So., 4. Okt., 14:00 Uhr) – [Details](https://www.naturwerkstatt-priwall.de)
+- **Fotokurs - Sternenspuren über der Landschaft** – Scharbeutz nach Anmeldung, Scharbeutz (läuft bis So., 4. Okt.) – [Details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
+- **Lange Saunanacht: O’zapft is!** – Ostsee Therme, Scharbeutz (läuft bis So., 4. Okt.) – [Details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
+- **Lust auf Schönes (Herbstmarkt)** – Niendorf/Ostsee, Niendorf/Ostsee (läuft bis So., 4. Okt.) – [Details](https://www.der-reporter.de/tdf-strand/artikel/die-highlight-events-2026-in-timmendorfer-strand-und-niendorf-ostsee)
 - **Leuchtturmführung Dahmeshöved** – Leuchtturm Dahmeshöved, Dahme (läuft bis Fr., 23. Okt.) – [Details](https://www.ostsee.de/dahme/veranstaltungen.php)
-- **Yoga auf dem Seebrückenkopf Niendorf** – Niendorfer Seebrücke, Niendorf/Ostsee (Mo., 28. Sept., 08:30 Uhr) – [Details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
-- **Da, wo wir uns finden - Malerei von Roland Willaert in der Strandkirche** – Galerie an der  Strandkirche Scharbeutz (Gemeindehaus), Scharbeutz (Mo., 28. Sept., 09:00 Uhr) – [Details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
-- **Ausstellung ,,Kunst erleben!- Walentowski Galerien"** – Trinkkurhalle, Timmendorfer Strand (Mo., 28. Sept., 10:00 Uhr) – [Details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
+- **Lust auf Schönes - Kunst Handwerk & Gestaltung** – Hafen, Niendorf/Ostsee (So., 4. Okt., 10:00 Uhr) – [Details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
+- … und 3 weitere
 
 Alle Termine: https://travemuende-heute.de/veranstaltungen/heute/
 
 ### Die nächsten Termine
 
-- **Day Spa mit Meerblick** – ATLANTIC Grand Hotel Travemünde (Di., 29. Sept., 07:00 Uhr) – [Details](https://atlantic-grand.de/spa-beauty/)
-- **18. WindArt 2026 in Travemünde** – verschiedene Orte in Travemünde (Di., 29. Sept., 08:00 Uhr) – [Details](http://www.kunst-kultur-travemuende.de)
-- **Offener Freizeit Boule Treff** – Treffpunkt: Brügmanngarten, an der Bühne (Di., 29. Sept., 11:00 Uhr) – [Details](http://www.freizeitundaktiv.de)
+- **Waldrallye im Naturschutzgebiet Südlicher Priwall** – Treffpunkt: Naturwerkstatt Priwall (Mo., 5. Okt., 12:00 Uhr) – [Details](https://www.naturwerkstatt-priwall.de)
+- **Naturseifen | Workshop** – Treffpunkt: Naturwerkstatt Priwall (Mo., 5. Okt., 14:00 Uhr) – [Details](https://www.naturwerkstatt-priwall.de)
+- **Das Landschaftsschutzgebiet Küstenlandschaft Priwall | Führung** – Treffpunkt: Naturwerkstatt Priwall (Di., 6. Okt., 14:00 Uhr) – [Details](https://www.naturwerkstatt-priwall.de)
 
 ## Wie ist die Wasserqualität?
 
