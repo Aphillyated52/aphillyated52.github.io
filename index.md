@@ -1,41 +1,41 @@
 # Travemünde heute – Veranstaltungen, Strand und Wasser
 
-> Stand: 4. Oktober 2026, 20:51 Uhr · HTML-Fassung: https://travemuende-heute.de/ · Überblick für Agenten: https://travemuende-heute.de/llms.txt
+> Stand: 5. Oktober 2026, 11:41 Uhr · HTML-Fassung: https://travemuende-heute.de/ · Überblick für Agenten: https://travemuende-heute.de/llms.txt
 
 Travemünde ist das Ostseebad von Lübeck: feiner Sandstrand an der Mündung der Trave, der Alte Leuchtturm, die Viermastbark Passat und die Travemünder Woche – eine der größten Segelregatten der Welt. Diese Seite bündelt, was heute zählt – amtliche Badegewässer-Einstufung, aktuelle Wassertemperatur, Veranstaltungen des Tages und Live-Abfahrten – jede Angabe mit Quelle und sichtbarem Prüfdatum. Kein offizielles Angebot der Stadt Lübeck oder der Kurverwaltung.
 
 ## Heute in Travemünde
 
-- Wassertemperatur Ostsee: **16,3 °C** (gemessen 19:00 Uhr)
-- Luft: **15 °C**, überwiegend klar, Wind West 2 Bft (leichte Brise)
-- Sonnenaufgang 07:24, Sonnenuntergang 18:48
+- Wassertemperatur Ostsee: **16,1 °C** (gemessen 11:30 Uhr)
+- Luft: **15 °C**, teils bewölkt, Wind Südwest 3 Bft (schwache Brise)
+- Sonnenaufgang 07:26, Sonnenuntergang 18:46
 - Badegewässer Travemünde Kurstrand: **ausgezeichnet** (EU-Einstufung 2022–2025)
 - Badegewässer Priwall: **ausgezeichnet** (EU-Einstufung 2022–2025)
-- 292 Tage bis zur 138. Travemünder Woche (23. Juli 2027) – https://travemuende-heute.de/travemuender-woche/
+- 291 Tage bis zur 138. Travemünder Woche (23. Juli 2027) – https://travemuende-heute.de/travemuender-woche/
 
 ## Veranstaltungen heute
 
-- **Travemünder Herbstdrachenfest – Vom Winde verweht** – Kurstrand und Strandpromenade, Aufgänge 4–7 (läuft bis So., 4. Okt.) – [Details](https://www.travemuende-tourismus.de/veranstaltungen/herbstdrachenfest)
 - **8. Sandskulpturen-Ausstellung – Zeitreise** – Bootshallen am Fischereihafen, Travemünder Landstraße 306 (läuft bis So., 1. Nov.) – [Details](https://www.sandskulpturen-travemuende.de/)
-- **WindArt Skulpturen Walk** – verschiedene Orte in Travemünde (So., 4. Okt., 08:00 Uhr) – [Details](http://www.kunst-kultur-travemuende.de)
-- **Strandrallye im Landschaftsschutzgebiet Küstenlandschaft Priwall** – Treffpunkt: Naturwerkstatt Priwall (So., 4. Okt., 11:00 Uhr) – [Details](https://www.naturwerkstatt-priwall.de)
-- **HERBSTDRACHENFEST in Travemünde** – Strand und Strandpromenade (So., 4. Okt., 11:00 Uhr) – [Details](https://www.travemuende-tourismus.de/veranstaltungen/herbstdrachenfest)
-- **Steine, Fossilien & Meer | GeoOstsee Brodtener Ufer** – Treffpunkt: Brodtener Ufer, bei der Treppe zum Strand (So., 4. Okt., 12:00 Uhr) – [Details](https://tickets.geopark-nordisches-steinreich.de/)
-- **Schnitzwerkstatt** – Treffpunkt: Naturwerkstatt Priwall (So., 4. Okt., 14:00 Uhr) – [Details](https://www.naturwerkstatt-priwall.de)
-- **Fotokurs - Sternenspuren über der Landschaft** – Scharbeutz nach Anmeldung, Scharbeutz (läuft bis So., 4. Okt.) – [Details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
-- **Lange Saunanacht: O’zapft is!** – Ostsee Therme, Scharbeutz (läuft bis So., 4. Okt.) – [Details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
-- **Lust auf Schönes (Herbstmarkt)** – Niendorf/Ostsee, Niendorf/Ostsee (läuft bis So., 4. Okt.) – [Details](https://www.der-reporter.de/tdf-strand/artikel/die-highlight-events-2026-in-timmendorfer-strand-und-niendorf-ostsee)
-- **Leuchtturmführung Dahmeshöved** – Leuchtturm Dahmeshöved, Dahme (läuft bis Fr., 23. Okt.) – [Details](https://www.ostsee.de/dahme/veranstaltungen.php)
-- **Lust auf Schönes - Kunst Handwerk & Gestaltung** – Hafen, Niendorf/Ostsee (So., 4. Okt., 10:00 Uhr) – [Details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
-- … und 4 weitere
+- **weit mehr als Meer | Kunstwerke aus Leidenschaft** – Kanzlei am Hafen (Mo., 5. Okt., 08:00 Uhr) – [Details](http://www.kunstnet.de/chrisartelier)
+- **WindArt Skulpturen Walk** – verschiedene Orte in Travemünde (Mo., 5. Okt., 08:00 Uhr) – [Details](http://www.kunst-kultur-travemuende.de)
+- **Kunstausstellung Michael Weigel** – Galerie im Maritim (Mo., 5. Okt., 09:30 Uhr) – [Details](http://www.weigel-art.de/galerie/galerie.php?lang=1)
+- **Qigong mit Dr. Renate Riemer** – Dojo-Sochin oder Praxis Riemer (Info bei Anmeldung) (Mo., 5. Okt., 10:00 Uhr) – [Details](http://www.qi-balance.de/)
+- **Hurricane BootsVermietung Travemünde | Motorboote** – Hurricane BootsVermietung Travemünde, Prinzenbrücke (Mo., 5. Okt., 10:00 Uhr) – [Details](http://www.hurricane-bootsvermietung.de/)
+- **Sandskulpturen Travemünde | ZEITREISE** – Bootshallen am Fischereihafen (Mo., 5. Okt., 10:00 Uhr) – [Details](http://www.sandskulpturen-travemuende.de)
+- **Kletterwald Travemünde** – Kletterwald Travemünde (Mo., 5. Okt., 10:00 Uhr) – [Details](http://www.kletterwald-travemuende.de)
+- **Besichtigung der Viermastbark Passat** – Viermastbark Passat (Mo., 5. Okt., 11:00 Uhr) – [Details](http://www.luebeck.de/passat)
+- **Galerie Anja Es: KUNST!** – Galerie Anja Es in der Alten Vogtei | Beletage (Mo., 5. Okt., 11:00 Uhr) – [Details](http://www.anja-es-kunst.de)
+- **Waldrallye im Naturschutzgebiet Südlicher Priwall** – Treffpunkt: Naturwerkstatt Priwall (Mo., 5. Okt., 12:00 Uhr) – [Details](https://www.naturwerkstatt-priwall.de)
+- **Große Hafenrundfahrt und Naturschutzgebiete | 12.30, 14.00 und 15.30 Uhr** – ab/an: Überseebrücke 2 (Mo., 5. Okt., 12:30 Uhr) – [Details](http://www.hanseschifffahrt.de)
+- … und 9 weitere
 
 Alle Termine: https://travemuende-heute.de/veranstaltungen/heute/
 
 ### Die nächsten Termine
 
-- **Waldrallye im Naturschutzgebiet Südlicher Priwall** – Treffpunkt: Naturwerkstatt Priwall (Mo., 5. Okt., 12:00 Uhr) – [Details](https://www.naturwerkstatt-priwall.de)
-- **Naturseifen | Workshop** – Treffpunkt: Naturwerkstatt Priwall (Mo., 5. Okt., 14:00 Uhr) – [Details](https://www.naturwerkstatt-priwall.de)
-- **Das Landschaftsschutzgebiet Küstenlandschaft Priwall | Führung** – Treffpunkt: Naturwerkstatt Priwall (Di., 6. Okt., 14:00 Uhr) – [Details](https://www.naturwerkstatt-priwall.de)
+- **Day Spa mit Meerblick** – ATLANTIC Grand Hotel Travemünde (Di., 6. Okt., 07:00 Uhr) – [Details](https://atlantic-grand.de/spa-beauty/)
+- **Vogelleben zwischen Fluss und Meer | Ausstellung** – Naturwerkstatt Priwall (Di., 6. Okt., 10:00 Uhr) – [Details](https://www.naturwerkstatt-priwall.de/)
+- **Besichtigung der Ostseestation Travemünde** – Ostseestation Travemünde (Di., 6. Okt., 10:00 Uhr) – [Details](http://www.ostseestation-travemuende.de/)
 
 ## Wie ist die Wasserqualität?
 
@@ -58,4 +58,4 @@ Amtliche Laborproben, in der Badesaison (1. Juni bis 15. September) etwa monatli
 
 ## Quellen und Aktualität
 
-Wetter- und Wasserwerte: Open-Meteo (open-meteo.com), Forecast- und Marine-API (abgerufen 19:01 Uhr). Die Seite wird mehrmals täglich neu gebaut; redaktionelle Angaben tragen ein Prüfdatum. Sprachen: Deutsch (https://travemuende-heute.de/) und Englisch (https://travemuende-heute.de/en/). Sitemap: https://travemuende-heute.de/sitemap-index.xml. Impressum: https://travemuende-heute.de/impressum/.
+Wetter- und Wasserwerte: Open-Meteo (open-meteo.com), Forecast- und Marine-API (abgerufen 11:40 Uhr). Die Seite wird mehrmals täglich neu gebaut; redaktionelle Angaben tragen ein Prüfdatum. Sprachen: Deutsch (https://travemuende-heute.de/) und Englisch (https://travemuende-heute.de/en/). Sitemap: https://travemuende-heute.de/sitemap-index.xml. Impressum: https://travemuende-heute.de/impressum/.
