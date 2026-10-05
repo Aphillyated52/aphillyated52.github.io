@@ -1,13 +1,13 @@
 # Travemünde heute – Veranstaltungen, Strand und Wasser
 
-> Stand: 4. Oktober 2026, 14:07 Uhr · HTML-Fassung: https://travemuende-heute.de/ · Überblick für Agenten: https://travemuende-heute.de/llms.txt
+> Stand: 4. Oktober 2026, 20:51 Uhr · HTML-Fassung: https://travemuende-heute.de/ · Überblick für Agenten: https://travemuende-heute.de/llms.txt
 
 Travemünde ist das Ostseebad von Lübeck: feiner Sandstrand an der Mündung der Trave, der Alte Leuchtturm, die Viermastbark Passat und die Travemünder Woche – eine der größten Segelregatten der Welt. Diese Seite bündelt, was heute zählt – amtliche Badegewässer-Einstufung, aktuelle Wassertemperatur, Veranstaltungen des Tages und Live-Abfahrten – jede Angabe mit Quelle und sichtbarem Prüfdatum. Kein offizielles Angebot der Stadt Lübeck oder der Kurverwaltung.
 
 ## Heute in Travemünde
 
-- Wassertemperatur Ostsee: **21,4 °C** (gemessen 14:15 Uhr)
-- Luft: **21 °C**, überwiegend klar, Wind West 4 Bft (mäßige Brise)
+- Wassertemperatur Ostsee: **16,3 °C** (gemessen 19:00 Uhr)
+- Luft: **15 °C**, überwiegend klar, Wind West 2 Bft (leichte Brise)
 - Sonnenaufgang 07:24, Sonnenuntergang 18:48
 - Badegewässer Travemünde Kurstrand: **ausgezeichnet** (EU-Einstufung 2022–2025)
 - Badegewässer Priwall: **ausgezeichnet** (EU-Einstufung 2022–2025)
@@ -27,7 +27,7 @@ Travemünde ist das Ostseebad von Lübeck: feiner Sandstrand an der Mündung der
 - **Lust auf Schönes (Herbstmarkt)** – Niendorf/Ostsee, Niendorf/Ostsee (läuft bis So., 4. Okt.) – [Details](https://www.der-reporter.de/tdf-strand/artikel/die-highlight-events-2026-in-timmendorfer-strand-und-niendorf-ostsee)
 - **Leuchtturmführung Dahmeshöved** – Leuchtturm Dahmeshöved, Dahme (läuft bis Fr., 23. Okt.) – [Details](https://www.ostsee.de/dahme/veranstaltungen.php)
 - **Lust auf Schönes - Kunst Handwerk & Gestaltung** – Hafen, Niendorf/Ostsee (So., 4. Okt., 10:00 Uhr) – [Details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
-- … und 3 weitere
+- … und 4 weitere
 
 Alle Termine: https://travemuende-heute.de/veranstaltungen/heute/
 
@@ -58,4 +58,4 @@ Amtliche Laborproben, in der Badesaison (1. Juni bis 15. September) etwa monatli
 
 ## Quellen und Aktualität
 
-Wetter- und Wasserwerte: Open-Meteo (open-meteo.com), Forecast- und Marine-API (abgerufen 14:24 Uhr). Die Seite wird mehrmals täglich neu gebaut; redaktionelle Angaben tragen ein Prüfdatum. Sprachen: Deutsch (https://travemuende-heute.de/) und Englisch (https://travemuende-heute.de/en/). Sitemap: https://travemuende-heute.de/sitemap-index.xml. Impressum: https://travemuende-heute.de/impressum/.
+Wetter- und Wasserwerte: Open-Meteo (open-meteo.com), Forecast- und Marine-API (abgerufen 19:01 Uhr). Die Seite wird mehrmals täglich neu gebaut; redaktionelle Angaben tragen ein Prüfdatum. Sprachen: Deutsch (https://travemuende-heute.de/) und Englisch (https://travemuende-heute.de/en/). Sitemap: https://travemuende-heute.de/sitemap-index.xml. Impressum: https://travemuende-heute.de/impressum/.

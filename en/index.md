@@ -1,13 +1,13 @@
 # Travemünde heute – events, beach and water in one place
 
-> As of: 4 October 2026, 14:07 · HTML version: https://travemuende-heute.de/en/ · Agent overview: https://travemuende-heute.de/llms.txt
+> As of: 4 October 2026, 20:51 · HTML version: https://travemuende-heute.de/en/ · Agent overview: https://travemuende-heute.de/llms.txt
 
 Travemünde is the Baltic seaside resort of Lübeck: fine sandy beach at the mouth of the Trave, the Old Lighthouse, the four-masted barque Passat and Travemünde Week – one of the largest sailing regattas in the world. This page brings together what matters today: the official bathing-water rating, the current water temperature, today’s events and live departures. Every fact is backed by a source and a visible verification date. Not an official service of the City of Lübeck or the resort administration.
 
 ## Today in Travemünde
 
-- Baltic Sea water temperature: **21.4 °C** (measured 14:15)
-- Air: **21 °C**, mostly clear, wind west 4 Bft (moderate breeze)
+- Baltic Sea water temperature: **16.3 °C** (measured 19:00)
+- Air: **15 °C**, mostly clear, wind west 2 Bft (light breeze)
 - Sunrise 07:24, sunset 18:48
 - Bathing water Travemünde main beach (Kurstrand): **excellent** (EU rating 2022–2025)
 - Bathing water Priwall beach: **excellent** (EU rating 2022–2025)
@@ -27,7 +27,7 @@ Travemünde is the Baltic seaside resort of Lübeck: fine sandy beach at the mou
 - **Lust auf Schönes (Autumn Market)** – Niendorf/Ostsee, Niendorf/Ostsee (runs until Sun 4 Oct) – [details](https://www.der-reporter.de/tdf-strand/artikel/die-highlight-events-2026-in-timmendorfer-strand-und-niendorf-ostsee)
 - **Dahmeshöved Lighthouse Tour** – Leuchtturm Dahmeshöved, Dahme (runs until Fri 23 Oct) – [details](https://www.ostsee.de/dahme/veranstaltungen.php)
 - **Lust auf Schönes - Kunst Handwerk & Gestaltung** – Hafen, Niendorf/Ostsee (Sun 4 Oct, 10:00) – [details](https://www.ostsee-schleswig-holstein.de/entdecken/veranstaltungen/)
-- … and 3 more
+- … and 4 more
 
 All events: https://travemuende-heute.de/en/events/today/
 
@@ -56,4 +56,4 @@ EU classification from four years of official laboratory samples, not a live rea
 
 ## Sources and freshness
 
-Weather and water readings: Open-Meteo (open-meteo.com), Forecast- und Marine-API (fetched 14:24). The site is rebuilt several times a day; editorial facts carry a verification date. Languages: German (https://travemuende-heute.de/) and English (https://travemuende-heute.de/en/). Sitemap: https://travemuende-heute.de/sitemap-index.xml. Imprint: https://travemuende-heute.de/en/imprint/.
+Weather and water readings: Open-Meteo (open-meteo.com), Forecast- und Marine-API (fetched 19:01). The site is rebuilt several times a day; editorial facts carry a verification date. Languages: German (https://travemuende-heute.de/) and English (https://travemuende-heute.de/en/). Sitemap: https://travemuende-heute.de/sitemap-index.xml. Imprint: https://travemuende-heute.de/en/imprint/.
