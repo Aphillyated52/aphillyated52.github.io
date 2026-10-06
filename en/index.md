@@ -1,13 +1,13 @@
 # Travemünde heute – events, beach and water in one place
 
-> As of: 6 October 2026, 03:49 · HTML version: https://travemuende-heute.de/en/ · Agent overview: https://travemuende-heute.de/llms.txt
+> As of: 6 October 2026, 10:53 · HTML version: https://travemuende-heute.de/en/ · Agent overview: https://travemuende-heute.de/llms.txt
 
 Travemünde is the Baltic seaside resort of Lübeck: fine sandy beach at the mouth of the Trave, the Old Lighthouse, the four-masted barque Passat and Travemünde Week – one of the largest sailing regattas in the world. This page brings together what matters today: the official bathing-water rating, the current water temperature, today’s events and live departures. Every fact is backed by a source and a visible verification date. Not an official service of the City of Lübeck or the resort administration.
 
 ## Today in Travemünde
 
-- Baltic Sea water temperature: **16.1 °C** (measured 03:30)
-- Air: **15 °C**, overcast, wind south-west 3 Bft (gentle breeze)
+- Baltic Sea water temperature: **16.1 °C** (measured 10:45)
+- Air: **16 °C**, overcast, wind south-west 3 Bft (gentle breeze)
 - Sunrise 07:28, sunset 18:43
 - Bathing water Travemünde main beach (Kurstrand): **excellent** (EU rating 2022–2025)
 - Bathing water Priwall beach: **excellent** (EU rating 2022–2025)
@@ -22,12 +22,12 @@ Travemünde is the Baltic seaside resort of Lübeck: fine sandy beach at the mou
 - **Kunstausstellung Michael Weigel** – Galerie im Maritim (Tue 6 Oct, 09:30) – [details](http://www.weigel-art.de/galerie/galerie.php?lang=1)
 - **Vogelleben zwischen Fluss und Meer | Ausstellung** – Naturwerkstatt Priwall (Tue 6 Oct, 10:00) – [details](https://www.naturwerkstatt-priwall.de/)
 - **Hurricane BootsVermietung Travemünde | Motorboote** – Hurricane BootsVermietung Travemünde, Prinzenbrücke (Tue 6 Oct, 10:00) – [details](http://www.hurricane-bootsvermietung.de/)
-- **Besichtigung der Ostseestation Travemünde** – Ostseestation Travemünde (Tue 6 Oct, 10:00) – [details](http://www.ostseestation-travemuende.de/)
 - **Sandskulpturen Travemünde | ZEITREISE** – Bootshallen am Fischereihafen (Tue 6 Oct, 10:00) – [details](http://www.sandskulpturen-travemuende.de)
 - **Kletterwald Travemünde** – Kletterwald Travemünde (Tue 6 Oct, 10:00) – [details](http://www.kletterwald-travemuende.de)
 - **StrandXpress MS HANSE CAT | 10.30, 12.30, 14.30 und 16.30 Uhr** – ab/an: Überseebrücke 2 (Tue 6 Oct, 10:30) – [details](https://hanse-cat-travemünde.de/jetzt-buchen/)
 - **Offener Freizeit Boule Treff** – Treffpunkt: Brügmanngarten, an der Bühne (Tue 6 Oct, 11:00) – [details](http://www.freizeitundaktiv.de)
-- … and 13 more
+- **Besichtigung der Viermastbark Passat** – Viermastbark Passat (Tue 6 Oct, 11:00) – [details](http://www.luebeck.de/passat)
+- … and 12 more
 
 All events: https://travemuende-heute.de/en/events/today/
 
@@ -56,4 +56,4 @@ EU classification from four years of official laboratory samples, not a live rea
 
 ## Sources and freshness
 
-Weather and water readings: Open-Meteo (open-meteo.com), Forecast- und Marine-API (fetched 03:40). The site is rebuilt several times a day; editorial facts carry a verification date. Languages: German (https://travemuende-heute.de/) and English (https://travemuende-heute.de/en/). Sitemap: https://travemuende-heute.de/sitemap-index.xml. Imprint: https://travemuende-heute.de/en/imprint/.
+Weather and water readings: Open-Meteo (open-meteo.com), Forecast- und Marine-API (fetched 10:53). The site is rebuilt several times a day; editorial facts carry a verification date. Languages: German (https://travemuende-heute.de/) and English (https://travemuende-heute.de/en/). Sitemap: https://travemuende-heute.de/sitemap-index.xml. Imprint: https://travemuende-heute.de/en/imprint/.

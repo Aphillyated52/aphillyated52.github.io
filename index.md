@@ -1,13 +1,13 @@
 # Travemünde heute – Veranstaltungen, Strand und Wasser
 
-> Stand: 6. Oktober 2026, 03:49 Uhr · HTML-Fassung: https://travemuende-heute.de/ · Überblick für Agenten: https://travemuende-heute.de/llms.txt
+> Stand: 6. Oktober 2026, 10:53 Uhr · HTML-Fassung: https://travemuende-heute.de/ · Überblick für Agenten: https://travemuende-heute.de/llms.txt
 
 Travemünde ist das Ostseebad von Lübeck: feiner Sandstrand an der Mündung der Trave, der Alte Leuchtturm, die Viermastbark Passat und die Travemünder Woche – eine der größten Segelregatten der Welt. Diese Seite bündelt, was heute zählt – amtliche Badegewässer-Einstufung, aktuelle Wassertemperatur, Veranstaltungen des Tages und Live-Abfahrten – jede Angabe mit Quelle und sichtbarem Prüfdatum. Kein offizielles Angebot der Stadt Lübeck oder der Kurverwaltung.
 
 ## Heute in Travemünde
 
-- Wassertemperatur Ostsee: **16,1 °C** (gemessen 03:30 Uhr)
-- Luft: **15 °C**, bedeckt, Wind Südwest 3 Bft (schwache Brise)
+- Wassertemperatur Ostsee: **16,1 °C** (gemessen 10:45 Uhr)
+- Luft: **16 °C**, bedeckt, Wind Südwest 3 Bft (schwache Brise)
 - Sonnenaufgang 07:28, Sonnenuntergang 18:43
 - Badegewässer Travemünde Kurstrand: **ausgezeichnet** (EU-Einstufung 2022–2025)
 - Badegewässer Priwall: **ausgezeichnet** (EU-Einstufung 2022–2025)
@@ -22,12 +22,12 @@ Travemünde ist das Ostseebad von Lübeck: feiner Sandstrand an der Mündung der
 - **Kunstausstellung Michael Weigel** – Galerie im Maritim (Di., 6. Okt., 09:30 Uhr) – [Details](http://www.weigel-art.de/galerie/galerie.php?lang=1)
 - **Vogelleben zwischen Fluss und Meer | Ausstellung** – Naturwerkstatt Priwall (Di., 6. Okt., 10:00 Uhr) – [Details](https://www.naturwerkstatt-priwall.de/)
 - **Hurricane BootsVermietung Travemünde | Motorboote** – Hurricane BootsVermietung Travemünde, Prinzenbrücke (Di., 6. Okt., 10:00 Uhr) – [Details](http://www.hurricane-bootsvermietung.de/)
-- **Besichtigung der Ostseestation Travemünde** – Ostseestation Travemünde (Di., 6. Okt., 10:00 Uhr) – [Details](http://www.ostseestation-travemuende.de/)
 - **Sandskulpturen Travemünde | ZEITREISE** – Bootshallen am Fischereihafen (Di., 6. Okt., 10:00 Uhr) – [Details](http://www.sandskulpturen-travemuende.de)
 - **Kletterwald Travemünde** – Kletterwald Travemünde (Di., 6. Okt., 10:00 Uhr) – [Details](http://www.kletterwald-travemuende.de)
 - **StrandXpress MS HANSE CAT | 10.30, 12.30, 14.30 und 16.30 Uhr** – ab/an: Überseebrücke 2 (Di., 6. Okt., 10:30 Uhr) – [Details](https://hanse-cat-travemünde.de/jetzt-buchen/)
 - **Offener Freizeit Boule Treff** – Treffpunkt: Brügmanngarten, an der Bühne (Di., 6. Okt., 11:00 Uhr) – [Details](http://www.freizeitundaktiv.de)
-- … und 13 weitere
+- **Besichtigung der Viermastbark Passat** – Viermastbark Passat (Di., 6. Okt., 11:00 Uhr) – [Details](http://www.luebeck.de/passat)
+- … und 12 weitere
 
 Alle Termine: https://travemuende-heute.de/veranstaltungen/heute/
 
@@ -58,4 +58,4 @@ Amtliche Laborproben, in der Badesaison (1. Juni bis 15. September) etwa monatli
 
 ## Quellen und Aktualität
 
-Wetter- und Wasserwerte: Open-Meteo (open-meteo.com), Forecast- und Marine-API (abgerufen 03:40 Uhr). Die Seite wird mehrmals täglich neu gebaut; redaktionelle Angaben tragen ein Prüfdatum. Sprachen: Deutsch (https://travemuende-heute.de/) und Englisch (https://travemuende-heute.de/en/). Sitemap: https://travemuende-heute.de/sitemap-index.xml. Impressum: https://travemuende-heute.de/impressum/.
+Wetter- und Wasserwerte: Open-Meteo (open-meteo.com), Forecast- und Marine-API (abgerufen 10:53 Uhr). Die Seite wird mehrmals täglich neu gebaut; redaktionelle Angaben tragen ein Prüfdatum. Sprachen: Deutsch (https://travemuende-heute.de/) und Englisch (https://travemuende-heute.de/en/). Sitemap: https://travemuende-heute.de/sitemap-index.xml. Impressum: https://travemuende-heute.de/impressum/.
