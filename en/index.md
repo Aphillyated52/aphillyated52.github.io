@@ -1,41 +1,41 @@
 # Travemünde heute – events, beach and water in one place
 
-> As of: 6 October 2026, 10:53 · HTML version: https://travemuende-heute.de/en/ · Agent overview: https://travemuende-heute.de/llms.txt
+> As of: 7 October 2026, 15:31 · HTML version: https://travemuende-heute.de/en/ · Agent overview: https://travemuende-heute.de/llms.txt
 
 Travemünde is the Baltic seaside resort of Lübeck: fine sandy beach at the mouth of the Trave, the Old Lighthouse, the four-masted barque Passat and Travemünde Week – one of the largest sailing regattas in the world. This page brings together what matters today: the official bathing-water rating, the current water temperature, today’s events and live departures. Every fact is backed by a source and a visible verification date. Not an official service of the City of Lübeck or the resort administration.
 
 ## Today in Travemünde
 
-- Baltic Sea water temperature: **16.1 °C** (measured 10:45)
-- Air: **16 °C**, overcast, wind south-west 3 Bft (gentle breeze)
-- Sunrise 07:28, sunset 18:43
+- Baltic Sea water temperature: **16.5 °C** (measured 15:15)
+- Air: **19 °C**, overcast, wind south-east 2 Bft (light breeze)
+- Sunrise 07:29, sunset 18:41
 - Bathing water Travemünde main beach (Kurstrand): **excellent** (EU rating 2022–2025)
 - Bathing water Priwall beach: **excellent** (EU rating 2022–2025)
-- 290 days to the 138th Travemünde Week (23 July 2027) – https://travemuende-heute.de/en/travemuende-week/
+- 289 days to the 138th Travemünde Week (23 July 2027) – https://travemuende-heute.de/en/travemuende-week/
 
 ## Events today
 
 - **8th Sand Sculpture Exhibition – Time Travel** – Bootshallen am Fischereihafen, Travemünder Landstraße 306 (runs until Sun 1 Nov) – [details](https://www.sandskulpturen-travemuende.de/)
-- **Day Spa mit Meerblick** – ATLANTIC Grand Hotel Travemünde (Tue 6 Oct, 07:00) – [details](https://atlantic-grand.de/spa-beauty/)
-- **weit mehr als Meer | Kunstwerke aus Leidenschaft** – Kanzlei am Hafen (Tue 6 Oct, 08:00) – [details](http://www.kunstnet.de/chrisartelier)
-- **WindArt Skulpturen Walk** – verschiedene Orte in Travemünde (Tue 6 Oct, 08:00) – [details](http://www.kunst-kultur-travemuende.de)
-- **Kunstausstellung Michael Weigel** – Galerie im Maritim (Tue 6 Oct, 09:30) – [details](http://www.weigel-art.de/galerie/galerie.php?lang=1)
-- **Vogelleben zwischen Fluss und Meer | Ausstellung** – Naturwerkstatt Priwall (Tue 6 Oct, 10:00) – [details](https://www.naturwerkstatt-priwall.de/)
-- **Hurricane BootsVermietung Travemünde | Motorboote** – Hurricane BootsVermietung Travemünde, Prinzenbrücke (Tue 6 Oct, 10:00) – [details](http://www.hurricane-bootsvermietung.de/)
-- **Sandskulpturen Travemünde | ZEITREISE** – Bootshallen am Fischereihafen (Tue 6 Oct, 10:00) – [details](http://www.sandskulpturen-travemuende.de)
-- **Kletterwald Travemünde** – Kletterwald Travemünde (Tue 6 Oct, 10:00) – [details](http://www.kletterwald-travemuende.de)
-- **StrandXpress MS HANSE CAT | 10.30, 12.30, 14.30 und 16.30 Uhr** – ab/an: Überseebrücke 2 (Tue 6 Oct, 10:30) – [details](https://hanse-cat-travemünde.de/jetzt-buchen/)
-- **Offener Freizeit Boule Treff** – Treffpunkt: Brügmanngarten, an der Bühne (Tue 6 Oct, 11:00) – [details](http://www.freizeitundaktiv.de)
-- **Besichtigung der Viermastbark Passat** – Viermastbark Passat (Tue 6 Oct, 11:00) – [details](http://www.luebeck.de/passat)
-- … and 12 more
+- **Day Spa mit Meerblick** – ATLANTIC Grand Hotel Travemünde (Wed 7 Oct, 07:00) – [details](https://atlantic-grand.de/spa-beauty/)
+- **weit mehr als Meer | Kunstwerke aus Leidenschaft** – Kanzlei am Hafen (Wed 7 Oct, 08:00) – [details](http://www.kunstnet.de/chrisartelier)
+- **WindArt Skulpturen Walk** – verschiedene Orte in Travemünde (Wed 7 Oct, 08:00) – [details](http://www.kunst-kultur-travemuende.de)
+- **Kunstausstellung Michael Weigel** – Galerie im Maritim (Wed 7 Oct, 09:30) – [details](http://www.weigel-art.de/galerie/galerie.php?lang=1)
+- **Radtour Brodtener Steilufer und Hemmelsdorfer See** – Treffpunkt: Tourist-Information Travemünde (Wed 7 Oct, 10:00) – [details](https://www.travemuende-tourismus.de/buchen/erlebnisse/erlebnisse/LUE/437a03f8-bafa-4c08-9343-96fd8c5cd659/grenzradtour-brodtener-steilufer---hemmelsdorfer-see)
+- **Vogelleben zwischen Fluss und Meer | Ausstellung** – Naturwerkstatt Priwall (Wed 7 Oct, 10:00) – [details](https://www.naturwerkstatt-priwall.de/)
+- **Hurricane BootsVermietung Travemünde | Motorboote** – Hurricane BootsVermietung Travemünde, Prinzenbrücke (Wed 7 Oct, 10:00) – [details](http://www.hurricane-bootsvermietung.de/)
+- **Besichtigung der Ostseestation Travemünde** – Ostseestation Travemünde (Wed 7 Oct, 10:00) – [details](http://www.ostseestation-travemuende.de/)
+- **Sandskulpturen Travemünde | ZEITREISE** – Bootshallen am Fischereihafen (Wed 7 Oct, 10:00) – [details](http://www.sandskulpturen-travemuende.de)
+- **Kletterwald Travemünde** – Kletterwald Travemünde (Wed 7 Oct, 10:00) – [details](http://www.kletterwald-travemuende.de)
+- **StrandXpress MS HANSE CAT | 10.30, 12.30, 14.30 und 16.30 Uhr** – ab/an: Überseebrücke 2 (Wed 7 Oct, 10:30) – [details](https://hanse-cat-travemünde.de/jetzt-buchen/)
+- … and 16 more
 
 All events: https://travemuende-heute.de/en/events/today/
 
 ### Coming up
 
-- **Radtour Brodtener Steilufer und Hemmelsdorfer See** – Treffpunkt: Tourist-Information Travemünde (Wed 7 Oct, 10:00) – [details](https://www.travemuende-tourismus.de/buchen/erlebnisse/erlebnisse/LUE/437a03f8-bafa-4c08-9343-96fd8c5cd659/grenzradtour-brodtener-steilufer---hemmelsdorfer-see)
-- **Strandrallye im Landschaftsschutzgebiet Küstenlandschaft Priwall** – Treffpunkt: Naturwerkstatt Priwall (Wed 7 Oct, 11:00) – [details](https://www.naturwerkstatt-priwall.de)
-- **Harbour Gallery Travemünde | Frauke Klatt** – Harbour Gallery by Frauke Klatt (Wed 7 Oct, 11:00) – [details](https://www.frauke-klatt.de/)
+- **Der Grenzspaziergang entlang der ehemaligen Grenze** – Treffpunkt: Priwallpromenade, vor dem Restaurant AHOI (Thu 8 Oct, 11:00) – [details](https://www.travemuende-tourismus.de/buchen/erlebnisse/erlebnisse/LUE/9d65d5ce-9498-41cc-9479-a2540ae22068/der-grenzspaziergang---entlang-der-ehemaligen-grenze)
+- **Radtour rund um Travemünde** – Treffpunkt: St.-Lorenz Kirchplatz, am Otto-Timmermann-Brunnen (Thu 8 Oct, 11:30) – [details](http://www.freizeitundaktiv.de)
+- **Naturseifen | Workshop** – Treffpunkt: Naturwerkstatt Priwall (Thu 8 Oct, 12:00) – [details](https://www.naturwerkstatt-priwall.de)
 
 ## How is the water quality?
 
@@ -56,4 +56,4 @@ EU classification from four years of official laboratory samples, not a live rea
 
 ## Sources and freshness
 
-Weather and water readings: Open-Meteo (open-meteo.com), Forecast- und Marine-API (fetched 10:53). The site is rebuilt several times a day; editorial facts carry a verification date. Languages: German (https://travemuende-heute.de/) and English (https://travemuende-heute.de/en/). Sitemap: https://travemuende-heute.de/sitemap-index.xml. Imprint: https://travemuende-heute.de/en/imprint/.
+Weather and water readings: Open-Meteo (open-meteo.com), Forecast- und Marine-API (fetched 15:21). The site is rebuilt several times a day; editorial facts carry a verification date. Languages: German (https://travemuende-heute.de/) and English (https://travemuende-heute.de/en/). Sitemap: https://travemuende-heute.de/sitemap-index.xml. Imprint: https://travemuende-heute.de/en/imprint/.
